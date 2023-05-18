@@ -1,0 +1,1 @@
+docker build -t lambda-example --platform linux/amd64 . 
