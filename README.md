@@ -1,5 +1,13 @@
 # Lambda example
 
-## Building for AWS
+## Image creation
 
-Add `--platform linux/amd64 ` onto the end of the build command.
+`bash build.sh`
+
+## Running a container
+
+`bash run.sh`
+
+## Testing a container locally
+
+`bash test.sh`

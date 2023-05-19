@@ -33,4 +33,5 @@ def handler(event, context):
 
 if __name__ == "__main__":
     load_dotenv()
+    print(env.get("EXAMPLE"))
     print(handler(None, None))
