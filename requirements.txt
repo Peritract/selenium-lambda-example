@@ -1,2 +1,5 @@
 python-dotenv
-selenium
+xhtml2pdf
+plotly_express
+kaleido
+boto3
